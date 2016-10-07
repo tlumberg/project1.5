@@ -1,3 +1,10 @@
+container {
+  line-height: 1.6;
+  width: 70%;
+  margin: 0 auto;
+  background-color: #999999; 
+}
+
 h1 {
   color: azure;
 }
@@ -23,12 +30,6 @@ ul {
   font-family: futura;
 }
 
-container {
-  line-height: 1.6;
-  width: 70%;
-  margin: 0 auto;
-  background-color: #999999; 
-}
 h1 {
   font-size: 120px;
 }
