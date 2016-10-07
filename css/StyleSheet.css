@@ -22,7 +22,8 @@ p {
 ul {
   font-family: futura;
 }
-body {
+
+container {
   line-height: 1.6;
   width: 70%;
   margin: 0 auto;
