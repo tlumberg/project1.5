@@ -40,6 +40,14 @@ p.intro {
   margin: 0 auto;
 }
 
+p.food {
+text-align: center;
+  color: white;
+  font-family: avenir;
+  width: 50%;
+  margin: 0 auto;
+}
+
 img.tim {
     width: 400px; 
     padding: 25px 50px 25px 50px;
