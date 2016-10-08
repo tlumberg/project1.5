@@ -30,6 +30,8 @@ color: white;
   font-size: 30px;
   width: 70%;
   margin: 0 auto;
+  padding: 5px
+  background-color: maroon;
 }
 
 p.intro { 
