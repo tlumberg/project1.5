@@ -23,6 +23,15 @@ h2.titles {
   margin: 0 auto;
 }
 
+h3 {
+color: white;
+  text-align: center;
+  font-family: futura;
+  font-size: 30px;
+  width: 70%;
+  margin: 0 auto;
+}
+
 p.intro { 
   text-align: center;
   color: white;
