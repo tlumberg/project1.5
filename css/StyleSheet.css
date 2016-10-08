@@ -1,3 +1,9 @@
+header {
+  background: maroon;
+  height: 200px; 
+  width: 100%;
+}
+
 body {
   line-height: 1.5;
   width: 70%;
@@ -9,6 +15,7 @@ h1 {
   color: white;
   text-align: center;
   font-family: futura;
+  font-size: 120px
 }
 
 h2.titles {
@@ -38,9 +45,4 @@ img.book{
     margin-right: auto; 
 }
 
-header {
-  background: maroon;
-  height: 200px; 
-  width: 100%;
-}
 
