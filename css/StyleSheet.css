@@ -21,6 +21,9 @@ h2.titles {
   font-size: 40px;
   width: 70%;
   margin: 0 auto;
+  padding: 5px;
+  background-color: maroon;
+  width: 100%;
 }
 
 h3 {
