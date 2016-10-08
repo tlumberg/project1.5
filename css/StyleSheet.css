@@ -7,23 +7,21 @@ body {
 
 h1 {
   color: white;
+  text-align: center;
 }
-h1 { 
-  text-align: center; }
-p { 
-  text-align: center; }
-p {
+
+p.intro { 
+  text-align: center;
   color: white;
-}
+  font-family: futura;}
+
 img {
   width: 400px; 
 }
 h1 {
   font-family: futura;
 }
-p {
-  font-family: futura;
-}
+
 h1 {
   font-size: 120px;
 }
