@@ -11,6 +11,13 @@ h1 {
   font-family: futura;
   font-size: 120px;
 }
+h2.titles {
+   color: white;
+  text-align: center;
+  font-family: futura;
+  font-size: 80px;
+  
+}
 
 p.intro { 
   text-align: center;
