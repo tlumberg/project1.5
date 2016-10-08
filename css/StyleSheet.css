@@ -24,6 +24,7 @@ h2.titles {
   font-family: futura;
   font-size: 80px;
   width: 70%;
+  margin: 0 auto;
 }
 
 p.intro { 
@@ -31,6 +32,7 @@ p.intro {
   color: white;
   font-family: avenir;
   width: 70%;
+  margin: 0 auto;
 }
 
 img.tim {
