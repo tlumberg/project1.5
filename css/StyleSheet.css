@@ -26,12 +26,10 @@ h2.titles {
 h3 {
 color: white;
   text-align: center;
-  font-family: futura;
+  font-family: avenir;
   font-size: 30px;
   width: 70%;
   margin: 0 auto;
-  padding: 5px
-  background-color: maroon;
 }
 
 p.intro { 
