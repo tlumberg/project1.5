@@ -10,6 +10,8 @@ h1 {
   font-size: 80px;
   width: 70%;
   margin: 0 auto;
+  padding: 25px;
+  background-color: maroon;
 }
 
 h2.titles {
