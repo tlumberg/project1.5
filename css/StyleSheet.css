@@ -72,4 +72,8 @@ img.food {
     padding: 25px 25px 25px 25px
 }
 
-
+footer {
+  padding: 25px;
+  background-color: maroon;
+  width: 100%
+}
