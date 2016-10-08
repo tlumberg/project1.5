@@ -13,7 +13,9 @@ h1 {
   color: white;
   text-align: center;
   font-family: futura;
-  font-size: 120px
+  font-size: 120px;
+  width: 70%;
+  margin: 0 auto;
 }
 
 h2.titles {
@@ -21,12 +23,17 @@ h2.titles {
   text-align: center;
   font-family: futura;
   font-size: 80px;
+  width: 70%;
+  margin: 0 auto;
 }
 
 p.intro { 
   text-align: center;
   color: white;
-  font-family: avenir;}
+  font-family: avenir;
+  width: 70%;
+  margin: 0 auto;
+}
 
 img.tim {
     width: 400px; 
