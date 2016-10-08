@@ -1,6 +1,6 @@
 body {
-  line-height: 1.6;
-  width: 70%;
+  line-height: .6;
+  width: 60%;
   margin: 0 auto;
   background-color: #999999; 
 }
@@ -25,14 +25,12 @@ p.intro {
   font-family: avenir;}
 
 img {
-  width: 400px; 
-}
-
-img {
+    width: 400px; 
     padding: 50px 50px 0px 50px;
     display: block;
     margin-left: auto;
-    margin-right: auto; }
+    margin-right: auto; 
+}
 
 header {
   background: maroon;
