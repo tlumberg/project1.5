@@ -8,6 +8,8 @@ body {
 h1 {
   color: white;
   text-align: center;
+  font-family: futura;
+  font-size: 120px;
 }
 
 p.intro { 
@@ -17,13 +19,6 @@ p.intro {
 
 img {
   width: 400px; 
-}
-h1 {
-  font-family: futura;
-}
-
-h1 {
-  font-size: 120px;
 }
 
 img {
