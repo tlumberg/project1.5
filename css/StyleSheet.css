@@ -81,10 +81,12 @@ footer {
 
 @media only screen and (max-device-width: 480px) {
   img.tim {
-  width: 200px
+    width: 200px;
+    padding: 10px 10px 10px 10px;
   }
   
   img.food {
-    width: 200px
+      width: 200p;
+      padding: 10px 10px 10px 10px;
   }
 }
