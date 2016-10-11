@@ -30,6 +30,7 @@ color: white;
   font-family: avenir;
   font-size: 30px;
   width: 70%;
+  margin: 0 auto;
 }
 
 p.intro { 
