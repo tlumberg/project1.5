@@ -12,7 +12,7 @@ h1 {
   margin: auto 0 auto 0;
   padding: 3px;
   background-color: maroon;
-  width: 105%;
+  width: full;
 }
 
 h2.titles {
