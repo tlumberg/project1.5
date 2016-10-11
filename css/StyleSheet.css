@@ -79,7 +79,7 @@ footer {
   width: full;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 500px) {
   img.tim {
     width: 200px;
     padding: 10px 10px 10px 10px;
