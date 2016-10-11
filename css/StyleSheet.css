@@ -53,6 +53,8 @@ img.tim {
     width: 400px; 
     padding: 25px auto 25px auto;
     display: block; 
+    margin-right: auto;
+    margin-left: auto;
 }
 
 img.book {
