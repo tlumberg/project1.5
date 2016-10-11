@@ -21,7 +21,6 @@ h2.titles {
   font-family: futura;
   font-size: 60px;
   width: 50%;
-  margin: 0 auto;
 }
 
 h3 {
@@ -30,7 +29,6 @@ color: white;
   font-family: avenir;
   font-size: 30px;
   width: 70%;
-  margin: 0 auto;
 }
 
 p.intro { 
