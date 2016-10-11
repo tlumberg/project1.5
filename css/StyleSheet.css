@@ -9,7 +9,9 @@ h1 {
   font-family: futura;
   font-size: 100px;
   margin-top: auto;
-  padding: 2px;
+  margin-right: full;
+  margin-left: full;
+  padding: 3px;
   background-color: maroon;
   width: 100%;
 }
