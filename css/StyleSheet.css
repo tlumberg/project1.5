@@ -80,12 +80,12 @@ footer {
 }
 
 @media only screen and (max-device-width: 500px) {
-  img.tim {
+  #img.tim {
     width: 200px;
     padding: 10px 10px 10px 10px;
   }
   
-  img.food {
+  #img.food {
       width: 200p;
       padding: 10px 10px 10px 10px;
   }
