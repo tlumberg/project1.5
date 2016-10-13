@@ -78,15 +78,18 @@ footer {
   background-color: maroon;
   width: full;
 }
+.container {
+
+}
 
 @media (max-width: 500px) {
   #img.tim {
-    width: 100px;
+    width: 100%;
     padding: 10px 10px 10px 10px;
   }
   
   #img.food {
-      width: 100px;
+      width: 100%;
       padding: 10px 10px 10px 10px;
   }
 }
